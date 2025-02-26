@@ -22,7 +22,7 @@ I'm an **IT Support Specialist** transitioning into **Cybersecurity**, with a pa
 ##  Projects & Contributions
 ### 🔹 **IT Support Toolkit**
 ✅ Developed a **toolkit for IT support professionals** with scripts for password resets, network diagnostics, and Active Directory automation.  
-🔗 [GitHub Repository](https://github.com/YOUR-GITHUB-USERNAME/IT-Support-Toolkit)
+🔗 [GitHub Repository](https://github.com/Success-ITdevops/IT-Support-Toolkit)
 
 ### 🔹 **Network Diagnostic Script**
 ✅ Created an **automated Python script** for troubleshooting network connectivity issues.  
