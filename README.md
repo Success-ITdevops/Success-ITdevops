@@ -30,7 +30,7 @@ I'm an **IT Support Specialist** transitioning into **Cybersecurity**, with a pa
 
 ### 🔹 **Automated User Management**
 ✅ Built **PowerShell scripts** for bulk user creation, modification.    
-🔗 [Check it Out](https://github.com/Success-ITdevops/Success-ITdevops/issues/3) 
+🔗 [View Project](https://github.com/Success-ITdevops/Success-ITdevops/issues/3) 
 
  ### 🔹 **Password policies in Active Directory**
 🔗 [View Project](https://github.com/Success-ITdevops/Success-ITdevops/issues/4)
