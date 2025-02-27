@@ -29,8 +29,11 @@ I'm an **IT Support Specialist** transitioning into **Cybersecurity**, with a pa
 🔗 [View Project](https://github.com/Success-ITdevops/Success-ITdevops/issues/6)
 
 ### 🔹 **Automated User Management**
-✅ Built **PowerShell scripts** for bulk user creation, modification, and password policies in Active Directory.  
-🔗 [Check it Out](https://github.com/Success-ITdevops/Success-ITdevops/issues/3)
+✅ Built **PowerShell scripts** for bulk user creation, modification.    
+🔗 [Check it Out](https://github.com/Success-ITdevops/Success-ITdevops/issues/3) 
+
+ ### 🔹 **Password policies in Active Directory**
+[View Project](https://github.com/Success-ITdevops/IT-Support-Toolkit#password-reset-script-powershell)
 
 ## 📫 Connect with Me
 📧 Email: success.amechi21@gmail.com  
