@@ -30,7 +30,7 @@ I'm an **IT Support Specialist** transitioning into **Cybersecurity**, with a pa
 
 ### 🔹 **Automated User Management**
 ✅ Built **PowerShell scripts** for bulk user creation, modification, and password policies in Active Directory.  
-🔗 [Check it Out](https://github.com/YOUR-GITHUB-USERNAME/AD-User-Management)
+🔗 [Check it Out](https://github.com/Success-ITdevops/Success-ITdevops/issues/3)
 
 ## 📫 Connect with Me
 📧 Email: success.amechi21@gmail.com  
