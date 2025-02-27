@@ -33,7 +33,7 @@ I'm an **IT Support Specialist** transitioning into **Cybersecurity**, with a pa
 🔗 [Check it Out](https://github.com/Success-ITdevops/Success-ITdevops/issues/3) 
 
  ### 🔹 **Password policies in Active Directory**
-[View Project](https://github.com/Success-ITdevops/IT-Support-Toolkit#password-reset-script-powershell)
+🔗 [View Project](https://github.com/Success-ITdevops/Success-ITdevops/issues/4)
 
 ## 📫 Connect with Me
 📧 Email: success.amechi21@gmail.com  
