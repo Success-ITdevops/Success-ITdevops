@@ -26,7 +26,7 @@ I'm an **IT Support Specialist** transitioning into **Cybersecurity**, with a pa
 
 ### 🔹 **Network Diagnostic Script**
 ✅ Created an **automated Python script** for troubleshooting network connectivity issues.  
-🔗 [View Project](https://github.com/YOUR-GITHUB-USERNAME/Network-Diagnostic)
+🔗 [View Project](https://github.com/Success-ITdevops/Success-ITdevops/issues/6)
 
 ### 🔹 **Automated User Management**
 ✅ Built **PowerShell scripts** for bulk user creation, modification, and password policies in Active Directory.  
